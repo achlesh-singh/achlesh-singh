@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Achlesh</h1>
-<h3 align="center">I share knowledge through my code, posts and talks 💙️.</h3>
+<h3 align="center">I share knowledge through my code, posts and talks 💛.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achlesh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="achlesh-singh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achlesh-singh" alt="achlesh-singh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/achlesh-singh" target="blank"><img src="https://img.shields.io/twitter/follow/achlesh-singh?logo=twitter&style=for-the-badge" alt="achlesh-singh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/achlesh_singh" target="blank"><img src="https://img.shields.io/twitter/follow/achlesh_singh?logo=twitter&style=for-the-badge" alt="achlesh_singh" /></a> </p>
 
 - 👨‍💻 I’m currently working at [Dew Solutions](https://www.dewsolutions.in/)
 
