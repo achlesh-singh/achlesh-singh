@@ -73,9 +73,9 @@ object AchleshSingh {
 </td>
 <td valign="top" width="50%">
 
-### 🎯 Goals in 2025
-- 📦 Ship **2 open-source libraries** for Android devs
-- 🤖 Integrate on-device **ML models** into Flutter apps
+### 🎯 Goals in 2026
+- 📦 Ship **2 open-source libraries for CMP** for Android devs
+- 🤖 Integrate on-device **ML models** into Android & Flutter apps
 - 📝 Write **technical articles** on Android architecture
 - 🎤 Speak at **community meetups** about mobile dev
 
@@ -229,36 +229,14 @@ object AchleshSingh {
 ## 💡 Skill Proficiency
 
 ```
-Android / Kotlin       ████████████████████  Expert     ██ 5+ yrs
-Flutter / Dart         ████████████████░░░░  Advanced   ██ 3+ yrs
+Android / Kotlin       ████████████████████  Expert     ██ 8+ yrs
+Flutter / Dart         ████████████████░░░░  Advanced   ██ 5+ yrs
 Java                   ████████████████████  Expert     ██ 5+ yrs
-Firebase               ████████████████░░░░  Advanced   ██ 3+ yrs
+Firebase               ████████████████░░░░  Advanced   ██ 8+ yrs
 Python / AI-ML         ████████░░░░░░░░░░░░  Learning   ██ 1+ yr
-CI/CD (Jenkins/GH)     ████████████░░░░░░░░  Proficient ██ 2+ yrs
-Clean Architecture     ████████████████████  Expert     ██ 4+ yrs
+CI/CD (Jenkins/GH)     ████████████░░░░░░░░  Proficient ██ 3+ yrs
+Clean Architecture     ████████████████████  Expert     ██ 6+ yrs
 ```
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                  FEATURED PROJECTS                             -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/achlesh-singh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=achlesh-singh&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=CDD6F4"/>
-</a>
-&nbsp;
-<a href="https://github.com/achlesh-singh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=achlesh-singh&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=CDD6F4"/>
-</a>
-
-</div>
-
-> 💡 *Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual pinned repository names.*
 
 ---
 
