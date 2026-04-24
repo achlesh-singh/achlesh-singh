@@ -1,0 +1,39 @@
+name: 🐍 Generate Contribution Snake
+
+on:
+  # Runs automatically every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
+  # Also runs on every push to main (keeps it fresh)
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    name: Generate Snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Generate snake SVGs (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: achlesh-singh
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: 🚀 Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update contribution snake [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
